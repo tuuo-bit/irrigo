@@ -2,7 +2,7 @@ import React, { useState, useEffect} from 'react'
 import axios from "axios";
 
 // Local IP Address
-const BACKEND_URL = "https://192.168.1.10";
+const BACKEND_URL = "";
 
 const W2 = () => {
 
